@@ -136,4 +136,4 @@ y el código HTML es el siguiente:
 <input placeholder="Introduce una clave" id="keyword"/><input placeholder="Introduce un valor" id="value"/><button id="addButton">Add</button>
 ```
 
-Nota: la detección de cambios en el almacén de datos no se dispara en la pestaña donde se producen los cambios; por esta razón (y para probar que funciona) hace falta abrir dos o más pestañas con el mismo código.
+Nota: la detección de cambios en el almacén de datos no se dispara en la pestaña donde se producen los cambios!!!!
